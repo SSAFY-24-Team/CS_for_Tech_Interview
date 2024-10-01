@@ -48,6 +48,11 @@
    </details>  
 5. 레퍼런스 : 관련 블로그 포스팅, 깃헙 링크
 
+### 4. 함께 만들어 가기
+- 다른 사람이 정리한 글 잘 읽어보기
+- 문서 읽다가 수정할 부분 있으면 PR 남기기
+- 정리 잘 된 깃헙이나 블로그 모으기
+
 ---
 
 ## 🌱 정리 내용
@@ -67,9 +72,14 @@
 ### Framework
 - x
 
-
-
-
+## 🚀 참고할 만한 곳
+- [Blog] https://csnote.net/ : CS 단어 간단 정리 - 많은 단어 + 간단 설명 + 귀여운 그림
+- [Blog] https://gyoogle.dev/blog/ : github 연동 블로그 - 정리 깔끔
+- [Github] https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main : SSAFY 5기 CS 스터디
+- [Github] https://github.com/brave-people/brave-tech-interview : IT 실무자들의 기술 면접 정리 - 질의응답 예시 있음
+- [Github] https://github.com/JaeYeopHan/Interview_Question_for_Beginner : 함께 만든 CS 레포 1
+- [Github] https://github.com/WeareSoft/tech-interview : 함께 만든 CS 레포 2
+- [Github] https://github.com/WooVictory/Ready-For-Tech-Interview : 함께 만든 CS 레포 3
 
 
 
