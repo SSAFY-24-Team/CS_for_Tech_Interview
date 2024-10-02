@@ -75,6 +75,7 @@
 ## 🚀 참고할 만한 곳
 - [Blog] https://csnote.net/ : CS 단어 간단 정리 - 많은 단어 + 간단 설명 + 귀여운 그림
 - [Blog] https://gyoogle.dev/blog/ : github 연동 블로그 - 정리 깔끔
+- [Blog] https://inpa.tistory.com/ : 유명한 프론트 개발자 Inpa Dev님의 블로그
 - [Github] https://github.com/SSAFY-CS-STUDY/Tech_interview/tree/main : SSAFY 5기 CS 스터디
 - [Github] https://github.com/brave-people/brave-tech-interview : IT 실무자들의 기술 면접 정리 - 질의응답 예시 있음
 - [Github] https://github.com/JaeYeopHan/Interview_Question_for_Beginner : 함께 만든 CS 레포 1
