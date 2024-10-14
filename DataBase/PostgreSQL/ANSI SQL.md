@@ -1,4 +1,4 @@
-![img.png](img/ANSI%20SQL/img.png)
+![img.png](/img/ANSI%20SQL/img.png)
 
 # 🖐 ANSI SQL
 
@@ -18,7 +18,7 @@
 
 ## 💡 ANSI SQL
 
-![img_1.png](img/ANSI%20SQL/img_1.png)
+![img_1.png](/img/ANSI%20SQL/img_1.png)
 
 - SQL 표준에 대해서 설명한 ANSI 블로그의 포스팅 글을 살펴보자.
 - 흔히들 'ANSI SQL 표준을 따랐다~' 라고 표현하기도 하는데, 이에대한 ANSI 블로그의 설명부분을 보면 '오해'라고 한다.
@@ -26,7 +26,7 @@
 
 <br/>
 
-![img_2.png](img/ANSI%20SQL/img_2.png)
+![img_2.png](/img/ANSI%20SQL/img_2.png)
 
 - 놀랍게도 그러한 표준은 없다고한다...왜냐하면 ANSI는 표준 자체를 개발하지 않고, 표준 개발을 지원하거나 조정하는 역할이기 때문이라고 한다.
 - 역사를 살펴보면 1986년 SQL언어가 공식적으로 수용되었고, 공인 표준 위원회(ASC) X3의 ANSI 데이터베이서 기술 의원회(ANSI X3H2)가 최초로 SQL 표준을 개발했다고 한다.
@@ -35,7 +35,7 @@
 
 ## IOS 9075
 
-![img_3.png](img/ANSI%20SQL/img_3.png)
+![img_3.png](/img/ANSI%20SQL/img_3.png)
 
 - 데이터베이스 언어인 SQL의 IOS 표준 문서이다.
 - 치사하게 PDF가 유료인데, 쌤플 정보를 볼 수도 있는 것 같다.
@@ -43,7 +43,7 @@
 
 <br/>
 
-![img_4.png](img/ANSI%20SQL/img_4.png)
+![img_4.png](/img/ANSI%20SQL/img_4.png)
 
 ## ✔ 정리
 

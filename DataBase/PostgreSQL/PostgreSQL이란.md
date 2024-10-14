@@ -1,11 +1,11 @@
-![img.png](img/PostgreSQL이란%20이미지/img.png)
+![img.png](/img/PostgreSQL이란%20이미지/img.png)
 # 🐘 PostgreSQL이란?
     귀여운 코끼리 로고로 유명한 PostgreSQL에 대해 알아보자.
     정의, 배경, 사용 이유, MySQL과의 차이 등을 서술한다.
 
 
 ## 🚀 정의 / 배경
-![img.png](img/PostgreSQL이란%20이미지/img2.png)
+![img.png](/img/PostgreSQL이란%20이미지/img2.png)
 
 PostgreSQL의 공식 사이트 (https://www.postgresql.org/)는 이렇게 소개하고 있다.
 
@@ -15,7 +15,7 @@ PostgreSQL의 공식 사이트 (https://www.postgresql.org/)는 이렇게 소개
 전 세계 커뮤니티에서 개발 과 유지보수가 이루어지고, 그 성능이 뛰어나 점차 영향력이 커져가는 DBMS이다. 
 
 공식 사이트에서는 **간략한 역사**도 설명해주고 있다. 원문은 [링크](https://www.postgresql.org/docs/current/history.html)를 확인하고 GPT의 요약은 다음과 같다.  
-![img_1.png](img/PostgreSQL이란%20이미지/img_1.png)
+![img_1.png](/img/PostgreSQL이란%20이미지/img_1.png)
 > PostgreSQL는 캘리포니아 대학교 버클리에서 시작된 POSTGRES 프로젝트에서 유래한 객체-관계형 데이터베이스 관리 시스템입니다. 1986년 Michael Stonebraker 교수가 이끈 이 프로젝트는 DARPA, ARO, NSF 등의 후원을 받아 개발되었습니다. 초기 버전은 1989년에 외부 사용자에게 공개되었으며, 이후 여러 연구 및 상용 애플리케이션에서 사용되었습니다. 1994년 Andrew Yu와 Jolly Chen이 SQL 인터프리터를 추가해 Postgres95라는 이름으로 공개되었고, 성능과 유지 관리가 개선되었습니다. 1996년에는 SQL 기능을 반영하기 위해 이름을 PostgreSQL로 변경했고, 이후로도 기능 확장과 개선 작업이 계속되고 있습니다.
 
 
@@ -34,7 +34,7 @@ PostgreSQL의 공식 사이트 (https://www.postgresql.org/)는 이렇게 소개
 그렇다면 PostgreSQL은 왜 사용할까? 강점은 무엇일까?
 <br>
 
-![img_2.png](img/PostgreSQL이란%20이미지/img_2.png)  
+![img_2.png](/img/PostgreSQL이란%20이미지/img_2.png)  
 [네이버 D2 포스팅 : 한눈에 살펴보는 PostgreSQL(2012.12.15)](https://d2.naver.com/helloworld/227936)  
 12년도 당시는 새롭게 인기를 끌어가며, 오픈 소스라는 장점으로 오라클 사용자들을 흡수해 나간 것 같다.
 역시 무료가 플랫폼 장악에서 중요하다.  

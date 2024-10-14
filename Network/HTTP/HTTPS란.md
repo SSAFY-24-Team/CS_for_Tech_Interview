@@ -8,9 +8,9 @@
 > 애플리케이션 계층과 전송 계층 사이에 신뢰 계층인 SSL/TLS 계층을 넣은 신뢰할 수 있는 HTTP 요청
 > ➜ `통신을 암호화`
 
-![](./HTTPS란/HTTPS1.jpg)
+![](../../img/HTTPS란/HTTPS1.jpg)
 
-![](./HTTPS란/HTTPS2.png)
+![](../../img/HTTPS란/HTTPS2.png)
 
 ## ▪️ **SSL / TLS**
 
@@ -20,7 +20,7 @@
 
 > 클라이언트와 서버가 통신을 할 때 SSL/TLS를 통해 제3자 메시지를 도청하거나 변조하지 못하도록함 (데이터를 암호화)
 
-![](./HTTPS란/HTTPS3.jpg)
+![](../../img/HTTPS란/HTTPS3.jpg)
 
 ### SSL
 
