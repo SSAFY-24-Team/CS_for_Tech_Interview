@@ -1,4 +1,4 @@
-![img.png](../../img/img.png)
+![img.png](../../img/MySQL/img.png)
 # MySQL 이란?
 - 전 세계에서 가장 인기 있는 오픈소스 관계형 데이터베이스 중 하나
 - 전자상거래 웹사이트, 소셜 미디어 및 애플리케이션에서 널리 사용
@@ -10,7 +10,7 @@
 - 다른 관계형 데이터베이스와 마찬가지로 MySQL은 행과 열로 구성된 테이블에 데이터를 저장
 - 사용자는 더 일반적으로 SQL이라고 하는 구조화된 쿼리 언어를 사용하여 데이터를 정의, 조작, 제어, 쿼리할 수 있음
 - MySQL 공식 사이트 : https://www.mysql.com  
-![img_1.png](../../img/img_1.png)
+![img_1.png](../../img/MySQL/img_1.png)
 
 ## SQL 사용
 - 데이터 조작어(DML; Data Manipulation Language)
