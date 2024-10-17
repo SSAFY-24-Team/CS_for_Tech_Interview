@@ -70,10 +70,11 @@
 3. RDB는 scale up이 용이하고, NoSQL은 scale out이 용이하다.
 
 </details>
+<br>
 
 > 출처
 > 
 
-[https://www.youtube.com/watch?v=sqVByJ5tbNA&list=PLcXyemr8ZeoREWGhhZi5FZs6cvymjIBVe&index=31](https://www.youtube.com/watch?v=sqVByJ5tbNA&list=PLcXyemr8ZeoREWGhhZi5FZs6cvymjIBVe&index=31)
-[https://www.oracle.com/kr/database/nosql/what-is-nosql/](https://www.oracle.com/kr/database/nosql/what-is-nosql/)
+[https://www.youtube.com/watch?v=sqVByJ5tbNA&list=PLcXyemr8ZeoREWGhhZi5FZs6cvymjIBVe&index=31](https://www.youtube.com/watch?v=sqVByJ5tbNA&list=PLcXyemr8ZeoREWGhhZi5FZs6cvymjIBVe&index=31)<br>
+[https://www.oracle.com/kr/database/nosql/what-is-nosql/](https://www.oracle.com/kr/database/nosql/what-is-nosql/)<br>
 [https://ud803.github.io/데이터베이스/2021/11/16/RDB-vs.-NoSQL-언제-누구를-써야할까/](https://ud803.github.io/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/2021/11/16/RDB-vs.-NoSQL-%EC%96%B8%EC%A0%9C-%EB%88%84%EA%B5%AC%EB%A5%BC-%EC%8D%A8%EC%95%BC%ED%95%A0%EA%B9%8C/)
