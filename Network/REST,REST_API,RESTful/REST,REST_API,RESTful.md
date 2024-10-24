@@ -74,7 +74,7 @@
 
 # REST API
 
-![image.png](/img/REST,%20REST%20API,%20RESTful%20/0.png)
+![image.png](/img/REST,REST_API,RESTful/0.png)
 
 ### 개념
 
@@ -87,7 +87,7 @@
 
 ### 설계 기본 규칙
 
-![image.png](/img/REST,%20REST%20API,%20RESTful%20/1.png)
+![image.png](/img/REST,REST_API,RESTful/1.png)
 
 - 슬래시(/)는 계층 관계를 나타내는데 사용한다.
 - URI는 정보의 자원을 표현해야 한다.
