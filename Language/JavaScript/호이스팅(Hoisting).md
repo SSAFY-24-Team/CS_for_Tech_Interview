@@ -86,6 +86,6 @@ var baz = function () {
 
 #### 출처
 
-[자바스크립트의 호이스팅(Hoisting)이해하기](https://f-lab.kr/insight/understanding-javascript-hoisting)
+[자바스크립트의 호이스팅(Hoisting)이해하기](https://f-lab.kr/insight/understanding-javascript-hoisting)  
 [MDN 호이스팅](https://developer.mozilla.org/ko/docs/Glossary/Hoisting)  
 [모던자바스크립트 Deep Dive 내용 정리 - 04장 변수](https://tturbo0824.tistory.com/147)
