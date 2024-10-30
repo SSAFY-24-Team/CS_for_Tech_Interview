@@ -2,7 +2,7 @@
 
 # Web Server
 
-![image.png](/img/Web_Server와_WAS/0.png)
+![image.png](/img/Web_Server&WAS/0.png)
 
 ### 개념
 
@@ -28,7 +28,7 @@
 
 # WAS(Web Application Server)
 
-![image.png](/img/Web_Server와_WAS/1.png)
+![image.png](/img/Web_Server&WAS/1.png)
 
 ### 개념
 
@@ -57,7 +57,7 @@
 
 # Web Server와 WAS를 분리하는 이유
 
-![image.png](/img/Web_Server와_WAS/2.png)
+![image.png](/img/Web_Server&WAS/2.png)
 
 <aside>
 💡
@@ -77,7 +77,7 @@
     - 여러 개의 서버 사용시 무중단 운영을 위한 장애 극복에 쉽게 대응 가능
         - 오류가 발생한 WAS를 이용하지 못하도록 앞 단의 Web Server에서 설정 후, WAS를 재시작하여 사용자가 오류를 느끼지 못하고 이용하도록 구성
     
-    ![image.png](/img/Web_Server와_WAS/3.png)
+    ![image.png](/img/Web_Server&WAS/3.png)
     
 
 # 예제 질문
