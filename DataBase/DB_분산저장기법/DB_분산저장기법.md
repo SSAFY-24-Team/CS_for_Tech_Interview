@@ -29,7 +29,7 @@
     - 자주 사용하는 컬럼 등을 분리시켜 성능 향상
     - 전체 데이터 필요시 join을 사용해 동작
     
-    ![image.png](/img/DB분산저장기법/0.png)
+    ![image.png](/img/DB_분산저장기법/0.png)
     
 - 수평(horizontal) 파티셔닝
     - row를 기준으로 table을 나누는 방식
@@ -37,12 +37,12 @@
     - 데이터의 개수와 index의 크기가 줄어들어 성능 향상
     - 데이터를 찾는 과정이 기존보다 복잡하기 때문에 latency 증가
     
-    ![image.png](/img/DB분산저장기법/1.png)
+    ![image.png](/img/DB_분산저장기법/1.png)
     
 
 ### 파티셔닝의 분할 기준
 
-![image.png](/img/DB분산저장기법/2.png)
+![image.png](/img/DB_분산저장기법/2.png)
 
 - 범위 분할(Range Partitioning)
     - 데이터 값을 특정 범위 기준으로 분할
@@ -62,7 +62,7 @@
 - 파티셔닝의 partition key가 shard key로 대응됨
 - 데이터베이스 차원의 수평 확장(scale out)
 
-![image.png](/img/DB분산저장기법/3.png)
+![image.png](/img/DB_분산저장기법/3.png)
 
 ### 장단점
 
@@ -79,7 +79,7 @@
 - DB를 복제해서 여러 대의 DB 서버에 저장하는 방식
 - 두 개 이상의 DBMS 시스템을 Master / Slave로 나눠서 동일한 데이터를 저장하는 방식
 
-![image.png](/img/DB분산저장기법/4.png)
+![image.png](/img/DB_분산저장기법/4.png)
 
 ### 장단점
 
