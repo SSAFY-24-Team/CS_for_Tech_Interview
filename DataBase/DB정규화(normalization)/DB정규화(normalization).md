@@ -2,7 +2,7 @@
 
 # 함수 종속(functional dependency)
 
-![image.png](/img/DB정규화(normalization)/0.png)
+![image.png](/img/DB_normalization/0.png)
 
 - X값이 같다면 Y값도 같다.
 - X값에 따라 Y값이 유일하게 결정될 때, X가 Y를 함수적으로 결정한다 (X→Y)
@@ -41,7 +41,7 @@
 - 테이블의 컬럼이 원자값(Atomic Value, 하나의 값)을 갖도록 테이블을 분해하는 것
 - 중복 데이터가 생기고 primary key도 변경해야할 수 있다.
 
-![image.png](/img/DB정규화(normalization)/1.png)
+![image.png](/img/DB_normalization/1.png)
 
 ### 2NF
 
@@ -49,9 +49,9 @@
 - key가 composite key가 아니라면 2NF는 자동적으로 만족한다?
     - {}→Y인 경우의 예외를 생각해야한다. 하지만, 대체로 만족한다.
 
-![image.png](/img/DB정규화(normalization)/2.png)
+![image.png](/img/DB_normalization/2.png)
 
-![image.png](/img/DB정규화(normalization)/3.png)
+![image.png](/img/DB_normalization/3.png)
 
 ### 3NF
 
@@ -60,16 +60,16 @@
 - non-prime attribute와 non-prime attribute 사이에는 functional dependency가 있으면 안된다.
 - X→Y & Y→Z 이면 X→Z이다. transitive functional dependency, Y나 Z는 어떤 key의 부분 집합이 아니여야함
 
-![image.png](/img/DB정규화(normalization)/4.png)
+![image.png](/img/DB_normalization/4.png)
 
 ### BCNF
 
 - 릴레이션 R에서 함수 종속성 X->Y가 성립할 때 모든 결정자 X가 후보키인 정규형
     - 모든 유효한 non-trivial functional dependency X→Y는 X가 super key여야 한다.
 
-![image.png](/img/DB정규화(normalization)/5.png)
+![image.png](/img/DB_normalization/5.png)
 
-![image.png](/img/DB정규화(normalization)/6.png)
+![image.png](/img/DB_normalization/6.png)
 
 ### 질의응답
 
